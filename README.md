@@ -1,5 +1,5 @@
 # Exploit_Kit
-
+## Group of tools to aid in performing Buffer Overflows.
 ## Use the tools in the following order
 
 1. fuzzer.py          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Make necessary changes)
